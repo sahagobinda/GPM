@@ -1,4 +1,3 @@
-
 ## Permuted MNIST - 10 Tasks 
 python main_pmnist.py
 
@@ -7,3 +6,6 @@ python main_cifar100.py
 
 ## CIFAR-100 Superclass - 20 tasks 
 python main_cifar_superclass.py
+
+## 5 Datasets Tasks 
+python main_five_dataset.py
