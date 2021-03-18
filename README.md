@@ -7,6 +7,12 @@ The ability to learn continually without forgetting the past tasks is a desired 
 ## Authors 
 Gobinda Saha, Isha Garg, Kaushik Roy 
 
+## Experiments
+This repository currently contains experiments reported in the paper for Permuted MNIST, 10-split CIFAR-100 and 20-tasks CIFAR-100 Superclass datasets. All these experiments can be run using the following command:
+```python
+source run_experiments.sh
+```
+
 ## Citation
 ```
 @inproceedings{
